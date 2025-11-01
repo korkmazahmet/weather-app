@@ -221,3 +221,8 @@ uiElement.unitToggle.querySelectorAll("button").forEach((btn) => {
         handleSearch(STATE.recent[0]);
     });
 });
+
+
+require('dotenv').config();
+
+// API key’i al
